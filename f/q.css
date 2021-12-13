@@ -1,0 +1,44 @@
+h1 {
+  color: rgb(243, 243, 243);
+  background-color: black;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  border-radius: 20px;
+}
+h2 {
+  color: whitesmoke;
+  background-color: black;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  border-radius: 20px;
+  width: 100px;
+  margin: auto;
+}
+body {
+  text-align: center;
+  background-color: beige;
+  /* width: 500px; */
+  /* margin: auto; */
+  /* padding: 20PX; */
+}
+#self {
+  font-weight: bold;
+  font-family: "Comforter brush", Arial, Helvetica, sans-serif;
+  font-size: x-large;
+}
+a {
+  color: blueviolet;
+  text-decoration: line-through;
+}
+a:hover {
+  text-decoration: none;
+  background-color: white;
+}
+img {
+  height: 250px;
+  width: 238px;
+  border-radius: 40%;
+  border: 10px black solid;
+}
+
+#self2 {
+  font-family: "Mukta", sans-serif;
+}

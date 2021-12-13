@@ -1,0 +1,41 @@
+body{
+    padding: 40px;
+}
+ol{
+    width: 350px;
+    margin: 36px auto 0 auto;
+    padding: 0;
+}
+li {
+  list-style: lower-greek;
+  text-decoration: line-through;
+  background-color: rgb(255, 0, 0);
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 50px;
+  color: rgb(0, 0, 0);
+  box-shadow: 5px 5px 10px greenyellow;
+}
+p {
+  color: rgb(0, 24, 46);
+  text-align: center;
+}
+.heading {
+    background-color: brown;
+    margin:0 150px;
+  margin-bottom: 50px;
+}
+a{
+    background-color: black;
+    color: aliceblue;
+    padding: 10px 30px;
+    margin: 10px 10px;
+    border: violet dashed 3px ;
+    display: inline-block;
+}
+a:hover{
+    color: black;
+}
+.goal{
+    background-color: rgb(230, 98, 98);
+}

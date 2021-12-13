@@ -1,0 +1,12 @@
+{
+    "mongoURI": "mongodb+srv://developer:Developer123@wrg.ojxyc.mongodb.net/dev?retryWrites=true&w=majority",
+    "jwtSecret": "23rRFD$#F#Dcf23jLK&*@mh4dMZ77GH^*!",
+    "refreshTokenSecret": "ndf#^GH^&G$%GgdfjWFDwf43g328uyd@R2",
+    "jwtExpire": "6h",
+    "jwtRefreshExpire": "16h",
+    "X-Master-Key": "goNxawzPD4WUWK9dUENBRiy1jS2licmlAqz1RdFy3ljoSBFAaUU0VvrmNubQ",
+    "X-Key": "OBU(U+aODQr!++NP%*!jmdAr_sGUG%H$=o*hEiWm$Dc%lGFo(gx7=TGsxTDW",
+    "X-Master-Key-Test-jas": "MfoeexvHNFUMxNcCjojTWibX5IOO4dtid5iWqlD55i8TWOsKcQ6omgxUEMdW",
+    "X-Key-Test-jas": "SDXKeekGb!j8ZpQJNJ=dBLADw6HgTj:bkiB:jx%KGh@v(c0SStv)+J#Bw*Qd"
+}
+  

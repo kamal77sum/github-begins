@@ -1,0 +1,20 @@
+body{
+    background-color: aliceblue;
+    text-align: center;
+    margin: 50px;
+    font-family: 'Comforter Brush';
+}
+#someid {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: aqua;
+    color: blue;
+}
+
+a{
+    text-decoration: line-through;
+}
+
+a:hover {
+    color: black;
+}
+

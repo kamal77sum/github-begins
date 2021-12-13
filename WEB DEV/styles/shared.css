@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+  background-color: beige;
+  font-family: "Comforter Brush";
+  font-size: xx-large;
+}
+h1 {
+  color: red;
+}
+p {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: brown;
+}
+#someid {
+  color: blueviolet;
+}
+a {
+  text-decoration: line-through;
+  color: black;
+} 
+a:hover {
+  text-decoration: underline;
+  color: blueviolet;
+
+}
+

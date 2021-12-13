@@ -1,0 +1,24 @@
+body{
+    margin: 20px;
+    background-color: rgb(226, 235, 231);
+    text-align: center;
+}
+h1{
+    text-decoration: wavy;
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+    color: rgb(58, 58, 107);
+}
+a{
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+}
+a:hover{
+    color: rgb(153, 24, 24);
+}
+
+p{
+    font-size: larger;
+    font-family: 'Montserrat', sans-serif;
+}

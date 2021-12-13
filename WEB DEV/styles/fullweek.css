@@ -1,0 +1,60 @@
+h1 {
+  font-size: 50px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(35, 25, 43);
+  margin: 15px 0;
+
+}
+a {
+  padding: 0px 20px;
+  background-color: rgb(201, 226, 57);
+  text-decoration: none;
+  border-radius: 4px;
+  border:1px dashed pink;
+  margin: 30px 12px;
+}
+a:hover {
+  text-decoration: none;
+  background-color: rgb(180, 12, 90);
+  color: azure;
+}
+li {
+  background-color: rgb(223, 136, 124);
+  border-radius: 5px;
+  margin: 50px;
+  padding: 16px;
+}
+ol {
+  list-style: none;
+  width: 500px;
+  margin: 36px auto 0 auto;
+}
+/* #descreption{
+  margin-bottom: 36px;
+}
+below is the same code function but below one is combinators +selectors
+*/
+/* header p{
+  margin-bottom: 36px;
+} */
+main p{
+  color: white;
+}
+
+h2{
+  color: rgb(82, 37, 37);
+  font-family: 'Oswald',sans-serif;
+}
+/* main p{
+  margin: 12px;
+  color: rgb(71,22,29);
+} */
+
+.highl{
+background-color: rgb(233, 18, 18);
+
+}
+
+.col{
+  color: black;
+}
